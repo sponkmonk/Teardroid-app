@@ -3,3 +3,4 @@ tqdm
 pydantic
 colorama
 emoji
+space-cli
